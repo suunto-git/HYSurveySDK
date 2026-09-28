@@ -21,5 +21,6 @@ let package = Package(
                 .copy("Assets/static"),
             ]
         )
-    ]
+    ],
+    swiftLanguageModes: [.v5]
 )
