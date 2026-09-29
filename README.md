@@ -3,7 +3,7 @@
 将 [HYSurveySDK](https://gitee.com/hanyidata/survey-sdk-ios)（体验家 / xmplus 问卷 SDK）封装为 Swift Package。
 
 - **Current HYSurveySDK version:** 0.4.37
-- **上游:** https://gitee.com/hanyidata/survey-sdk-ios
+- **上游:** https://github.com/hanyidata/survey-sdk-ios
 - **最低 iOS:** 17.0（与 STTiOS 一致）
 - **License:** MIT（上游原协议）
 
