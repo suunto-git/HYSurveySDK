@@ -38,7 +38,7 @@ let myBundle = Bundle(for: Self.self)
 ## 升级
 
 ```bash
-git clone --branch <官方tag> --depth 1 https://gitee.com/hanyidata/survey-sdk-ios.git /tmp/survey-sdk-ios
+git clone --branch <官方tag> --depth 1 https://github.com/hanyidata/survey-sdk-ios /tmp/survey-sdk-ios
 ./sync.sh /tmp/survey-sdk-ios
 ```
 
